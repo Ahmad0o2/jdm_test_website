@@ -1,0 +1,16 @@
+{
+    "meals": [
+        {
+            "id": 1,
+            "name": "Burger",
+            "price": 5,
+            "description": "Delicious beef burger with cheese and lettuce"
+        },
+        {
+            "id": 2,
+            "name": "Pizza",
+            "price": 7,
+            "description": "Cheesy pizza with tomato sauce and pepperoni"
+        }
+    ]
+}
